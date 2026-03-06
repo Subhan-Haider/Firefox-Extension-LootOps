@@ -1,0 +1,23 @@
+# Extensions
+*.zip
+*.crx
+*.xpi
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+scripts/zip_dist/
