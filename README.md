@@ -13,6 +13,8 @@ We track **100% OFF** promotions on Epic Games and Steam so you never miss a sup
 
 ![LootOps Banner](assets/images/banner.png)
 
+
+
 </div>
 
 ---
@@ -70,7 +72,7 @@ A stunning, glass-morphic dashboard that adapts to your environment:
   <img src="assets/images/dark_mode.png" width="45%" alt="Dark Mode">
   <img src="assets/images/light_mode.png" width="45%" alt="Light Mode">
 </div>
-
+![LootOps Banner](icons/LootOps – Get FREE Game Alerts _ Never Miss Free Games Again!.mp4)
 ---
 
 ## 🛡️ Security & Privacy
